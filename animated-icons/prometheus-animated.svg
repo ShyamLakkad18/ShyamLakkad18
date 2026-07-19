@@ -2,14 +2,19 @@
   <circle cx="50" cy="46" r="38" fill="none" stroke="#E6522C" stroke-width="2" stroke-dasharray="6 6" opacity="0.6">
     <animateTransform attributeName="transform" type="rotate" from="0 50 46" to="360 50 46" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="30" fill="#E6522C" opacity="0.18">
+  <circle cx="50" cy="46" r="30" fill="#E6522C" opacity="0.16">
     <animate attributeName="r" values="30;38;30" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.22;0.02;0.22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0.02;0.20" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="26" fill="#E6522C">
-    <animate attributeName="r" values="26;28;26" dur="2s" repeatCount="indefinite"/>
+  <circle cx="50" cy="46" r="27" fill="#161b22" stroke="#E6522C" stroke-width="1.5">
+    <animate attributeName="r" values="27;29;27" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="54" font-size="22" text-anchor="middle" fill="#0d1117" font-family="Verdana, Arial, sans-serif" font-weight="bold">PM</text>
+  <g transform="translate(50,46)">
+    <g transform="translate(0,2)">
+      <path d="M0,-16 C6,-8 8,-3 5,3 C9,1 10,-4 10,-4 C13,4 9,14 0,16 C-9,14 -13,4 -10,-4 C-10,-4 -9,1 -5,3 C-8,-3 -6,-8 0,-16 Z" fill="#ffffff"/>
+      <path d="M0,-6 C3,-2 4,2 2,5 C4,4 5,1 5,1 C6,6 3,11 0,12 C-3,11 -6,6 -5,1 C-5,1 -4,4 -2,5 C-4,2 -3,-2 0,-6 Z" fill="#E6522C"/>
+    </g>
+  </g>
   <text x="50" y="112" font-size="13" text-anchor="middle" fill="#E6522C" font-family="Verdana, Arial, sans-serif" font-weight="600">Prometheus
     <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
   </text>
