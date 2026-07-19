@@ -2,14 +2,22 @@
   <circle cx="50" cy="46" r="38" fill="none" stroke="#EF7B4D" stroke-width="2" stroke-dasharray="6 6" opacity="0.6">
     <animateTransform attributeName="transform" type="rotate" from="0 50 46" to="360 50 46" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="30" fill="#EF7B4D" opacity="0.18">
+  <circle cx="50" cy="46" r="30" fill="#EF7B4D" opacity="0.16">
     <animate attributeName="r" values="30;38;30" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.22;0.02;0.22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0.02;0.20" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="26" fill="#EF7B4D">
-    <animate attributeName="r" values="26;28;26" dur="2s" repeatCount="indefinite"/>
+  <circle cx="50" cy="46" r="27" fill="#161b22" stroke="#EF7B4D" stroke-width="1.5">
+    <animate attributeName="r" values="27;29;27" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="54" font-size="22" text-anchor="middle" fill="#0d1117" font-family="Verdana, Arial, sans-serif" font-weight="bold">AR</text>
+  <g transform="translate(50,46)">
+    <g transform="translate(0,2)">
+      <path d="M -12 0 A 12 12 0 1 1 -8.5 8.5" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+      <polygon points="-8.5,8.5 -14,9.5 -12,4" fill="#ffffff"/>
+      <path d="M 12 0 A 12 12 0 1 1 8.5 -8.5" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+      <polygon points="8.5,-8.5 14,-9.5 12,-4" fill="#ffffff"/>
+      <circle cx="0" cy="0" r="3" fill="#ffffff"/>
+    </g>
+  </g>
   <text x="50" y="112" font-size="13" text-anchor="middle" fill="#EF7B4D" font-family="Verdana, Arial, sans-serif" font-weight="600">ArgoCD
     <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
   </text>
