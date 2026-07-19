@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 DevOps Tech Stack (Live Animated)
+## 🚀 DevOps Tech Stack (100% Animated)
 
 <p align="center">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65"/>&nbsp;&nbsp;
@@ -45,13 +45,16 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65"/>
 </p>
 
-<p align="center"><i>👆 these 5 glow/pulse live on GitHub — powered by <a href="https://techstack-generator.vercel.app/">TechStack Generator</a> (only icon set that ships real frame-by-frame animation)</i></p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=terraform,jenkins,linux,bash,git,githubactions,prometheus,grafana,helm&perline=9"/>
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/linux-animated.svg" width="90"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/terraform-animated.svg" width="90"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/jenkins-animated.svg" width="90"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/prometheus-animated.svg" width="90"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/grafana-animated.svg" width="90"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/argocd-animated.svg" width="90"/>
 </p>
 
-<p align="center"><i>Terraform, Jenkins, Linux, Bash, Git, GitHub Actions, Prometheus, Grafana, Helm — crisp static icons (no genuine animated version of these logos exists on any free icon service yet)</i></p>
+> ⚙️ **One-time setup for the second row:** no free service ships real animated logos for Linux, Terraform, Jenkins, Prometheus, Grafana, or ArgoCD — so I built custom pulsing/glowing SVGs for them (same SMIL-animation technique the snake graph below uses, which genuinely animates on GitHub). Just create a folder named `animated-icons` in your `ShyamLakkad18/ShyamLakkad18` repo, upload the 6 SVG files I've attached, and these will glow and spin live. First row (Docker/Kubernetes/AWS/GitHub/Nginx) needs no setup — already live.
 
 <div align="center">
 
