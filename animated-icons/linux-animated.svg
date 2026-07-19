@@ -2,14 +2,27 @@
   <circle cx="50" cy="46" r="38" fill="none" stroke="#FCC624" stroke-width="2" stroke-dasharray="6 6" opacity="0.6">
     <animateTransform attributeName="transform" type="rotate" from="0 50 46" to="360 50 46" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="30" fill="#FCC624" opacity="0.18">
+  <circle cx="50" cy="46" r="30" fill="#FCC624" opacity="0.16">
     <animate attributeName="r" values="30;38;30" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.22;0.02;0.22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0.02;0.20" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="26" fill="#FCC624">
-    <animate attributeName="r" values="26;28;26" dur="2s" repeatCount="indefinite"/>
+  <circle cx="50" cy="46" r="27" fill="#161b22" stroke="#FCC624" stroke-width="1.5">
+    <animate attributeName="r" values="27;29;27" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="54" font-size="22" text-anchor="middle" fill="#0d1117" font-family="Verdana, Arial, sans-serif" font-weight="bold">LX</text>
+  <g transform="translate(50,46)">
+    <g transform="translate(0,2) scale(0.85)">
+      <ellipse cx="0" cy="2" rx="13" ry="16" fill="#0d1117"/>
+      <ellipse cx="-5" cy="-6" rx="4" ry="5" fill="#ffffff"/>
+      <ellipse cx="5" cy="-6" rx="4" ry="5" fill="#ffffff"/>
+      <circle cx="-5" cy="-5" r="1.6" fill="#0d1117"/>
+      <circle cx="5" cy="-5" r="1.6" fill="#0d1117"/>
+      <path d="M -3 1 Q 0 4 3 1 Q 0 3 -3 1 Z" fill="#F89C0E"/>
+      <ellipse cx="-8" cy="13" rx="4" ry="2.2" fill="#F89C0E"/>
+      <ellipse cx="8" cy="13" rx="4" ry="2.2" fill="#F89C0E"/>
+      <path d="M -9 -1 Q -13 4 -9 10" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+      <path d="M 9 -1 Q 13 4 9 10" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+    </g>
+  </g>
   <text x="50" y="112" font-size="13" text-anchor="middle" fill="#FCC624" font-family="Verdana, Arial, sans-serif" font-weight="600">Linux
     <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
   </text>
