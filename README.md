@@ -1,185 +1,129 @@
-<h1 align="center">
-Hi 👋, I'm Shyam Lakkad
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Jenkins
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi, I'm Shyam Lakkad
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;🐳+Docker+%7C+Kubernetes;⚡+CI%2FCD+Automation;🌍+Linux+Administrator;💙+Open+To+Work" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVOPS%20ENGINEER&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🚀 Passionate DevOps Engineer
+
+☁️ AWS Cloud Enthusiast
+
+🐳 Docker & Kubernetes Lover
+
+⚡ CI/CD Automation using Jenkins
+
+🏗️ Infrastructure as Code with Terraform
+
+📊 Monitoring using Prometheus & Grafana
+
+🔥 GitOps using ArgoCD
+
+💻 Linux Administrator
+
+🎯 Looking for DevOps Engineer Opportunities
+
+---
+
+# 🚀 DevOps Tech Stack
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud;Docker+%7C+Kubernetes;Terraform+Infrastructure;CI%2FCD+Automation;Linux+Administrator;Open+To+Work"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana,mysql,mongodb,nodejs,react,vscode"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
-
-🔹 DevOps Engineer
-
-🔹 AWS Cloud Enthusiast
-
-🔹 Kubernetes Lover
-
-🔹 Terraform Automation
-
-🔹 Docker Expert
-
-🔹 Linux Administrator
-
-🔹 CI/CD Pipeline Builder
-
-🔹 Currently Learning GitOps (ArgoCD)
-
----
-
-# 🛠 Tech Stack
+# ☁️ Cloud
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,bash,git,github,mysql,mongodb,nodejs,react,python,vscode"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange">
+
+<img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/S3-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/IAM-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/VPC-purple?style=for-the-badge">
 
 </p>
 
 ---
 
-# ⚡ GitHub Stats
+# 🐳 Containers
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamLakkad18&show_icons=true&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamLakkad18&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/DockerCompose-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker">
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# ☸ Kubernetes
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShyamLakkad18&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes">
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge">
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# ⚡ DevOps
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamLakkad18&theme=tokyo-night"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins">
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 📊 Monitoring
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus">
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana">
 
 </p>
 
 ---
 
-# 🚀 DevOps Roadmap
+<div align="center">
 
-✅ Linux
+### ⚡ "Automating Infrastructure, One Deployment at a Time."
 
-✅ Git
+</div>
 
-✅ GitHub
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ Helm
-
-✅ Jenkins
-
-✅ Terraform
-
-✅ AWS
-
-✅ Prometheus
-
-✅ Grafana
-
-✅ ArgoCD
-
----
-
-# 🚀 Featured Projects
-
-## ☁️ AWS Terraform Infrastructure
-
-Provisioned EC2, VPC, Security Groups and S3 using Terraform.
-
----
-
-## ☸ Kubernetes Chat App
-
-Dockerized Full Stack Chat Application deployed on Kubernetes.
-
----
-
-## 🚀 CI/CD Pipeline
-
-Jenkins Pipeline
-
-DockerHub
-
-Kubernetes Deployment
-
----
-
-## 📊 Monitoring Stack
-
-Prometheus
-
-Grafana
-
-Alertmanager
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/ShyamLakkad18">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShyamLakkad18&label=Visitors&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ If you like my projects, don't forget to Star them ⭐
-
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
