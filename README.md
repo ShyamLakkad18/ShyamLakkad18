@@ -35,24 +35,23 @@
 
 ---
 
-## 🚀 Tech Stack (Live Animated)
+## 🚀 DevOps Tech Stack (Live Animated)
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65" height="65"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="rest-api" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65"/>
 </p>
 
-<p align="center"><i>👆 these icons glow/pulse live on GitHub — powered by <a href="https://techstack-generator.vercel.app/">TechStack Generator</a></i></p>
+<p align="center"><i>👆 these 5 glow/pulse live on GitHub — powered by <a href="https://techstack-generator.vercel.app/">TechStack Generator</a> (only icon set that ships real frame-by-frame animation)</i></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=terraform,jenkins,linux,bash,git,githubactions,prometheus,grafana,mongodb,nodejs,react,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=terraform,jenkins,linux,bash,git,githubactions,prometheus,grafana,helm&perline=9"/>
 </p>
+
+<p align="center"><i>Terraform, Jenkins, Linux, Bash, Git, GitHub Actions, Prometheus, Grafana, Helm — crisp static icons (no genuine animated version of these logos exists on any free icon service yet)</i></p>
 
 <div align="center">
 
@@ -88,7 +87,6 @@
 ### 💻 OS & Scripting
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
 
