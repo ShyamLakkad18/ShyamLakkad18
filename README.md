@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=SHYAM%20LAKKAD&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn&fontSize=55&desc=DevOps%20Engineer%20|%20Cloud%20%26%20Automation%20Enthusiast&descAlign=50&descAlignY=55&descColor=8fd3fe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SHYAM%20LAKKAD&fontAlign=50&fontAlignY=32&color=gradient&customColorList=12&animation=twinkling&fontSize=60&desc=DevOps%20Engineer%20|%20Cloud%20%26%20Automation%20Enthusiast&descAlign=50&descAlignY=55&descColor=8fd3fe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%90%B3+Docker+%7C+Kubernetes;%E2%9A%A1+CI%2FCD+Automation;%F0%9F%8C%8D+Linux+Administrator;%F0%9F%94%A5+GitOps+with+ArgoCD;%F0%9F%92%99+Open+To+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=950&separator=%3B&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%90%B3+Docker+%7C+Kubernetes;%E2%9A%A1+CI%2FCD+Automation;%F0%9F%8C%8D+Linux+Administrator;%F0%9F%94%A5+GitOps+with+ArgoCD;%F0%9F%92%99+Open+To+Work" />
 
 <br>
 
@@ -35,10 +35,23 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (Live Animated)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,githubactions,prometheus,grafana,mysql,mongodb,nodejs,react,vscode,python&perline=9"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="rest-api" width="65" height="65"/>
+</p>
+
+<p align="center"><i>👆 these icons glow/pulse live on GitHub — powered by <a href="https://techstack-generator.vercel.app/">TechStack Generator</a></i></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=terraform,jenkins,linux,bash,git,githubactions,prometheus,grafana,mongodb,nodejs,react,vscode&perline=9"/>
 </p>
 
 <div align="center">
