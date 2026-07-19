@@ -1,160 +1,98 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi, I'm Shyam Lakkad
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=SHYAM%20LAKKAD&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn&fontSize=55&desc=DevOps%20Engineer%20|%20Cloud%20%26%20Automation%20Enthusiast&descAlign=50&descAlignY=55&descColor=8fd3fe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;🐳+Docker+%7C+Kubernetes;⚡+CI%2FCD+Automation;🌍+Linux+Administrator;💙+Open+To+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%90%B3+Docker+%7C+Kubernetes;%E2%9A%A1+CI%2FCD+Automation;%F0%9F%8C%8D+Linux+Administrator;%F0%9F%94%A5+GitOps+with+ArgoCD;%F0%9F%92%99+Open+To+Work" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVOPS%20ENGINEER&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn"/>
+<a href="https://www.linkedin.com/in/shyam-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ShyamLakkad18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShyamLakkad18&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🚀 Passionate DevOps Engineer
+- 🚀 Passionate **DevOps Engineer**
+- ☁️ **AWS** Cloud Enthusiast
+- 🐳 **Docker & Kubernetes** Lover
+- ⚡ **CI/CD Automation** using Jenkins & GitHub Actions
+- 🏗️ **Infrastructure as Code** with Terraform
+- 📊 **Monitoring** using Prometheus & Grafana
+- 🔥 **GitOps** using ArgoCD
+- 💻 **Linux** Administrator
+- 🎯 Currently looking for **DevOps Engineer** opportunities
+- 🌱 Always learning something new in Cloud & Automation
 
-☁️ AWS Cloud Enthusiast
-
-🐳 Docker & Kubernetes Lover
-
-⚡ CI/CD Automation using Jenkins
-
-🏗️ Infrastructure as Code with Terraform
-
-📊 Monitoring using Prometheus & Grafana
-
-🔥 GitOps using ArgoCD
-
-💻 Linux Administrator
-
-🎯 Looking for DevOps Engineer Opportunities
+<br clear="both">
 
 ---
 
-# 🚀 DevOps Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,prometheus,grafana,mysql,mongodb,nodejs,react,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github,githubactions,prometheus,grafana,mysql,mongodb,nodejs,react,vscode,python&perline=9"/>
 </p>
-
----
-
-# ☁️ Cloud
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange">
-
-<img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/S3-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/IAM-red?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/VPC-purple?style=for-the-badge">
-
-</p>
-
----
-
-# 🐳 Containers
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/DockerCompose-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker">
-
-</p>
-
----
-
-# ☸ Kubernetes
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes">
-
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge">
-
-</p>
-
----
-
-# ⚡ DevOps
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins">
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</p>
-
----
-
-# 📊 Monitoring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus">
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana">
-
-</p>
-
----
 
 <div align="center">
 
-### ⚡ "Automating Infrastructure, One Deployment at a Time."
+### ☁️ Cloud
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange">
+<img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/S3-blue?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/IAM-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/VPC-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
+
+### 🐳 Containers
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+### ☸️ Orchestration
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+
+### ⚡ CI/CD & IaC
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+### 📊 Monitoring
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+### 💻 OS & Scripting
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamLakkad18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamLakkad18&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
+<br>
 
 <img src="https://streak-stats.demolab.com?user=ShyamLakkad18&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamLakkad18&theme=tokyo-night&hide_border=true"/>
 
@@ -162,7 +100,56 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake (Live Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> 💡 **Setup note:** this animated snake needs a one-time GitHub Actions workflow in your `ShyamLakkad18/ShyamLakkad18` repo. I've included the exact YAML below — just add it and the snake will render and animate itself daily.
+
+<details>
+<summary>⚙️ Click to see the snake-animation workflow (<code>.github/workflows/snake.yml</code>)</summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -172,7 +159,7 @@
 
 ---
 
-# ⚡ Profile Summary Cards
+## ⚡ Profile Summary Cards
 
 <div align="center">
 
@@ -181,61 +168,50 @@
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamLakkad18&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamLakkad18&theme=tokyonight"/>
 
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamLakkad18&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamLakkad18&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-# ⚙️ DevOps Toolbox
+## ⚙️ DevOps Toolbox
 
 <div align="center">
 
-| ☁️ Cloud | 🐳 Containers | ☸️ Orchestration | 🔄 CI/CD |
-|----------|---------------|-----------------|----------|
-| AWS | Docker | Kubernetes | Jenkins |
-| IAM | Docker Compose | Helm | GitHub Actions |
-| EC2 | Docker Hub | ArgoCD | Git |
+| ☁️ Cloud | 🐳 Containers | ☸️ Orchestration | 🔄 CI/CD | 📊 Monitoring |
+|:---:|:---:|:---:|:---:|:---:|
+| AWS | Docker | Kubernetes | Jenkins | Prometheus |
+| IAM | Docker Compose | Helm | GitHub Actions | Grafana |
+| EC2 / S3 | Docker Hub | ArgoCD | Git | CloudWatch |
 
 </div>
 
 ---
 
-# 📡 Monitoring & Logging
-
-<div align="center">
-
-| 📊 Monitoring | 📈 Visualization |
-|---------------|------------------|
-| Prometheus | Grafana |
-
-</div>
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```text
 🔹 Kubernetes Production Deployments
 🔹 GitOps with ArgoCD
-🔹 AWS Infrastructure
-🔹 Terraform Modules
-🔹 CI/CD Automation
+🔹 AWS Infrastructure at Scale
+🔹 Reusable Terraform Modules
+🔹 CI/CD Pipeline Optimization
 🔹 Monitoring & Alerting
-🔹 Linux Administration
+🔹 Linux Hardening & Administration
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 "Build Once • Deploy Anywhere • Automate Everything"
+### ⚡ "Automating Infrastructure, One Deployment at a Time." ⚡
+### 🚀 "Build Once • Deploy Anywhere • Automate Everything" 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
 
 </div>
