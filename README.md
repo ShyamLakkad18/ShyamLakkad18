@@ -54,8 +54,6 @@
 <img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/argocd-animated.svg" width="90"/>
 </p>
 
-> ⚙️ **One-time setup for the second row:** no free service ships real animated logos for Linux, Terraform, Jenkins, Prometheus, Grafana, or ArgoCD — so I built custom pulsing/glowing SVGs for them (same SMIL-animation technique the snake graph below uses, which genuinely animates on GitHub). Just create a folder named `animated-icons` in your `ShyamLakkad18/ShyamLakkad18` repo, upload the 6 SVG files I've attached, and these will glow and spin live. First row (Docker/Kubernetes/AWS/GitHub/Nginx) needs no setup — already live.
-
 <div align="center">
 
 ### ☁️ Cloud
@@ -121,45 +119,6 @@
 <img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-> 💡 **Setup note:** this animated snake needs a one-time GitHub Actions workflow in your `ShyamLakkad18/ShyamLakkad18` repo. I've included the exact YAML below — just add it and the snake will render and animate itself daily.
-
-<details>
-<summary>⚙️ Click to see the snake-animation workflow (<code>.github/workflows/snake.yml</code>)</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
