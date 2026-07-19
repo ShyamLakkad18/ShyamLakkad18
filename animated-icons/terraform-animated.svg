@@ -2,14 +2,20 @@
   <circle cx="50" cy="46" r="38" fill="none" stroke="#844FBA" stroke-width="2" stroke-dasharray="6 6" opacity="0.6">
     <animateTransform attributeName="transform" type="rotate" from="0 50 46" to="360 50 46" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="30" fill="#844FBA" opacity="0.18">
+  <circle cx="50" cy="46" r="30" fill="#844FBA" opacity="0.16">
     <animate attributeName="r" values="30;38;30" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.22;0.02;0.22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0.02;0.20" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="50" cy="46" r="26" fill="#844FBA">
-    <animate attributeName="r" values="26;28;26" dur="2s" repeatCount="indefinite"/>
+  <circle cx="50" cy="46" r="27" fill="#161b22" stroke="#844FBA" stroke-width="1.5">
+    <animate attributeName="r" values="27;29;27" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="54" font-size="22" text-anchor="middle" fill="#0d1117" font-family="Verdana, Arial, sans-serif" font-weight="bold">TF</text>
+  <g transform="translate(50,46)">
+    <g transform="translate(-9,-10) scale(0.9)">
+      <polygon points="0,0 8,4.6 8,14 0,9.4" fill="#ffffff"/>
+      <polygon points="9,4.9 17,9.5 17,18.9 9,14.3" fill="#ffffff"/>
+      <polygon points="9,15.1 17,19.7 17,29.1 9,24.5" fill="#B084CC"/>
+    </g>
+  </g>
   <text x="50" y="112" font-size="13" text-anchor="middle" fill="#844FBA" font-family="Verdana, Arial, sans-serif" font-weight="600">Terraform
     <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
   </text>
