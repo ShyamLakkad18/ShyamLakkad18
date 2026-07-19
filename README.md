@@ -127,3 +127,115 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamLakkad18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamLakkad18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShyamLakkad18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamLakkad18&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShyamLakkad18&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Profile Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamLakkad18&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamLakkad18&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamLakkad18&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamLakkad18&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamLakkad18&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# ⚙️ DevOps Toolbox
+
+<div align="center">
+
+| ☁️ Cloud | 🐳 Containers | ☸️ Orchestration | 🔄 CI/CD |
+|----------|---------------|-----------------|----------|
+| AWS | Docker | Kubernetes | Jenkins |
+| IAM | Docker Compose | Helm | GitHub Actions |
+| EC2 | Docker Hub | ArgoCD | Git |
+
+</div>
+
+---
+
+# 📡 Monitoring & Logging
+
+<div align="center">
+
+| 📊 Monitoring | 📈 Visualization |
+|---------------|------------------|
+| Prometheus | Grafana |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🔹 Kubernetes Production Deployments
+🔹 GitOps with ArgoCD
+🔹 AWS Infrastructure
+🔹 Terraform Modules
+🔹 CI/CD Automation
+🔹 Monitoring & Alerting
+🔹 Linux Administration
+```
+
+---
+
+<div align="center">
+
+### 🚀 "Build Once • Deploy Anywhere • Automate Everything"
+
+</div>
