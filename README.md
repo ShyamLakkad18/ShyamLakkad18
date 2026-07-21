@@ -6,7 +6,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/shyam-lakkad-355557338/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shyam-lakkad-355557338/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:shyamlakkad7@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ShyamLakkad18/" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50"/></a>
 
