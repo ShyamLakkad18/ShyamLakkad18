@@ -105,6 +105,30 @@
 
 ---
 
+## 🔄 My DevOps Pipeline (Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/pipeline-banner.svg" width="900"/>
+
+</div>
+
+> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
+
+---
+
+## ☸️ My Kubernetes Cluster (Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/k8s-cluster-banner.svg" width="900"/>
+
+</div>
+
+> ⚙️ **Setup:** `k8s-cluster-banner.svg` bhi usi `animated-icons` folder me daal do. Control Plane se scheduling pulse dots teeno Worker Nodes ki taraf live travel karenge, aur har Pod ka border pulse karta rahega (jaise container health-check chal raha ho).
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -175,31 +199,6 @@
 | EC2 / S3 | Docker Hub | ArgoCD | Git | CloudWatch |
 
 </div>
-
----
-
-## 🔄 My DevOps Pipeline (Animated)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/pipeline-banner.svg" width="900"/>
-
-</div>
-
-> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
-
----
-
-## ☸️ My Kubernetes Cluster (Animated)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/k8s-cluster-banner.svg" width="900"/>
-
-</div>
-
-
----
 
 ## 🎯 Current Focus
 
