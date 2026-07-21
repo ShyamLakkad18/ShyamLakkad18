@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 DevOps Tech Stack (100% Animated)
+## 🚀 DevOps Tech Stack
 
 <p align="center">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65"/>&nbsp;&nbsp;
@@ -45,14 +45,16 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/linux-animated.svg" width="90"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/terraform-animated.svg" width="90"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/jenkins-animated.svg" width="90"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/prometheus-animated.svg" width="90"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/grafana-animated.svg" width="90"/>&nbsp;
-<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/argocd-animated.svg" width="90"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/linux/FCC624" width="55" height="55"/><br><b>Linux</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="55" height="55"/><br><b>Terraform</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="55" height="55"/><br><b>Jenkins</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="55" height="55"/><br><b>Prometheus</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/grafana/F46800" width="55" height="55"/><br><b>Grafana</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="55" height="55"/><br><b>ArgoCD</b></td>
+</tr>
+</table>
 
 <div align="center">
 
