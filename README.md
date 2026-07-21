@@ -186,6 +186,18 @@
 
 </div>
 
+> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
+
+---
+
+## ☸️ My Kubernetes Cluster (Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/k8s-cluster-banner.svg" width="900"/>
+
+</div>
+
 
 ---
 
