@@ -6,9 +6,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/shyam-lakkad-355557338/" target="_blank"><img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:shyamlakkad7@gmail.com"><img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/ShyamLakkad18/" target="_blank"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shyam-lakkad-355557338/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:shyamlakkad7@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ShyamLakkad18/" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShyamLakkad18&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 
