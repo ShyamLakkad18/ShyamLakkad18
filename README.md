@@ -178,6 +178,18 @@
 
 ---
 
+## 🔄 My DevOps Pipeline (Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/pipeline-banner.svg" width="900"/>
+
+</div>
+
+> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
+
+---
+
 ## 🎯 Current Focus
 
 ```text
