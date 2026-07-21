@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#203a43;#0f2027" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#203a43">
+        <animate attributeName="stop-color" values="#203a43;#2c5364;#203a43" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#0f2027;#2c5364" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="34" rx="14" fill="#00000033"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="17" r="6" fill="#27c93f"/>
+  <text x="450" y="22" font-family="Fira Code, monospace" font-size="13" fill="#8fd3fe" text-anchor="middle">shyam@devops:~</text>
+  <text x="34" y="80" font-family="Fira Code, monospace" font-size="24" fill="#00F7FF" font-weight="bold">
+    <tspan>$ whoami</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="34" y="120" font-family="Fira Code, monospace" font-size="26" fill="#ffffff" font-weight="bold">
+    <tspan>Shyam Lakkad</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.6s" fill="freeze"/>
+  </text>
+  <text x="34" y="155" font-family="Fira Code, monospace" font-size="18" fill="#8fd3fe">
+    <tspan>&gt; DevOps Engineer | AWS · Docker · Kubernetes · Terraform</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.6s" fill="freeze"/>
+  </text>
+  <text x="34" y="185" font-family="Fira Code, monospace" font-size="18" fill="#00F7FF">
+    <tspan>&gt; Automating Infrastructure, One Deployment at a Time 🚀</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.6s" fill="freeze"/>
+  </text>
+  <rect x="34" y="192" width="12" height="20" fill="#00F7FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
