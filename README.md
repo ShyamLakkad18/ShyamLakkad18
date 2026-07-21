@@ -186,7 +186,6 @@
 
 </div>
 
-> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
 
 ---
 
