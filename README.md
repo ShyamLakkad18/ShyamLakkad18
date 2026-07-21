@@ -6,15 +6,11 @@
 
 <br><br>
 
-### 📫 Let's Connect
+<a href="https://www.linkedin.com/in/shyam-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ShyamLakkad18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/shyam-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335"/></a>&nbsp;
-<a href="https://github.com/ShyamLakkad18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717"/></a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShyamLakkad18&style=flat-square&color=00F7FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShyamLakkad18&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 
 </div>
 
