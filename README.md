@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SHYAM%20LAKKAD&fontAlign=50&fontAlignY=32&color=gradient&customColorList=12&animation=twinkling&fontSize=60&desc=DevOps%20Engineer%20|%20Cloud%20%26%20Automation%20Enthusiast&descAlign=50&descAlignY=55&descColor=8fd3fe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=950&separator=%3B&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%90%B3+Docker+%7C+Kubernetes;%E2%9A%A1+CI%2FCD+Automation;%F0%9F%8C%8D+Linux+Administrator;%F0%9F%94%A5+GitOps+with+ArgoCD;%F0%9F%92%99+Open+To+Work" />
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/terminal-banner.svg" width="900"/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/shyam-lakkad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -57,22 +57,28 @@
 <div align="center">
 
 ### ☁️ Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange">
-<img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/S3-blue?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/IAM-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/VPC-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=FF9900">
+<img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=FF9900">
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazoniam&logoColor=FF9900">
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logoColor=FF9900">
+<img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logoColor=FF9900">
+
+<br><br>
 
 ### 🐳 Containers
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
+<br><br>
+
 ### ☸️ Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+
+<br><br>
 
 ### ⚡ CI/CD & IaC
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -81,9 +87,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br><br>
+
 ### 📊 Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+<br><br>
 
 ### 💻 OS & Scripting
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
