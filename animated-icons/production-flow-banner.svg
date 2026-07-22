@@ -11,72 +11,72 @@
   </defs>
 
   <rect width="1000" height="430" rx="16" fill="url(#prodbg)"/>
-  <text x="500" y="34" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="bold" fill="#00F7FF">🏭 Full Production Deployment Flow</text>
+  <text x="500" y="34" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="27" font-weight="bold" fill="#00F7FF">🏭 Full Production Deployment Flow</text>
 
   <!-- ===== TOP ROW: CI/CD FLOW ===== -->
   <path id="toprow" d="M 70 110 L 210 110 L 350 110 L 490 110 L 630 110 L 770 110 L 910 110"
         fill="none" stroke="#2c5364" stroke-width="3"/>
 
-  <circle r="6" fill="#00F7FF" filter="url(#pglow)">
+  <circle r="6.0" fill="#00F7FF" filter="url(#pglow)">
     <animateMotion dur="5s" repeatCount="indefinite" path="M 70 110 L 210 110 L 350 110 L 490 110 L 630 110 L 770 110 L 910 110"/>
   </circle>
-  <circle r="6" fill="#F46800" filter="url(#pglow)" opacity="0.8">
+  <circle r="6.0" fill="#F46800" filter="url(#pglow)" opacity="0.8">
     <animateMotion dur="5s" begin="1.7s" repeatCount="indefinite" path="M 70 110 L 210 110 L 350 110 L 490 110 L 630 110 L 770 110 L 910 110"/>
   </circle>
 
   <!-- Node template function replicated manually -->
   <!-- 1 Developer -->
   <g transform="translate(70,110)">
-    <circle r="28" fill="#161b22" stroke="#00F7FF" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">👨‍💻</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Developer</text>
+    <circle r="32.2" fill="#161b22" stroke="#00F7FF" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">👨‍💻</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Developer</text>
   </g>
 
   <!-- 2 GitHub -->
   <g transform="translate(210,110)">
-    <circle r="28" fill="#161b22" stroke="#ffffff" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.2s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">🐙</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">GitHub</text>
+    <circle r="32.2" fill="#161b22" stroke="#ffffff" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">🐙</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">GitHub</text>
   </g>
 
   <!-- 3 CI (Jenkins/Actions) -->
   <g transform="translate(350,110)">
-    <circle r="28" fill="#161b22" stroke="#D24939" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.4s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">⚙️</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Jenkins/CI</text>
+    <circle r="32.2" fill="#161b22" stroke="#D24939" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">⚙️</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Jenkins/CI</text>
   </g>
 
   <!-- 4 Docker Build -->
   <g transform="translate(490,110)">
-    <circle r="28" fill="#161b22" stroke="#2496ED" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">🐳</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Docker Build</text>
+    <circle r="32.2" fill="#161b22" stroke="#2496ED" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">🐳</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Docker Build</text>
   </g>
 
   <!-- 5 ArgoCD -->
   <g transform="translate(630,110)">
-    <circle r="28" fill="#161b22" stroke="#EF7B4D" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">🔁</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">ArgoCD</text>
+    <circle r="32.2" fill="#161b22" stroke="#EF7B4D" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">🔁</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">ArgoCD</text>
   </g>
 
   <!-- 6 Kubernetes -->
   <g transform="translate(770,110)">
-    <circle r="28" fill="#161b22" stroke="#326CE5" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="1s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">☸️</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Kubernetes</text>
+    <circle r="32.2" fill="#161b22" stroke="#326CE5" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="1s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">☸️</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Kubernetes</text>
   </g>
 
   <!-- 7 Monitoring -->
   <g transform="translate(910,110)">
-    <circle r="28" fill="#161b22" stroke="#F46800" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></circle>
-    <text text-anchor="middle" dy="7" font-size="20">📊</text>
-    <text text-anchor="middle" y="48" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Monitoring</text>
+    <circle r="32.2" fill="#161b22" stroke="#F46800" stroke-width="2.5"><animate attributeName="r" values="28;31;28" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <text text-anchor="middle" dy="7" font-size="27">📊</text>
+    <text text-anchor="middle" y="48" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Monitoring</text>
   </g>
 
   <!-- ===== INFRASTRUCTURE LAYER (bottom) ===== -->
   <rect x="40" y="230" width="920" height="150" rx="14" fill="#0d1117" stroke="#326CE5" stroke-width="1.5" opacity="0.9"/>
-  <text x="500" y="256" text-anchor="middle" font-size="14" font-family="Verdana" font-weight="bold" fill="#00F7FF">⚙️ Infrastructure Layer</text>
+  <text x="500" y="256" text-anchor="middle" font-size="19" font-family="Verdana" font-weight="bold" fill="#00F7FF">⚙️ Infrastructure Layer</text>
 
   <!-- connecting lines from infra up to Docker/ArgoCD/K8s -->
   <path d="M 250 300 L 490 138" stroke="#844FBA" stroke-width="1.5" stroke-dasharray="4 5" opacity="0.5"/>
@@ -85,43 +85,43 @@
 
   <!-- Terraform -->
   <g transform="translate(250,310)">
-    <circle r="24" fill="#161b22" stroke="#844FBA" stroke-width="2.5">
+    <circle r="27.6" fill="#161b22" stroke="#844FBA" stroke-width="2.5">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="6" font-size="18">🏗️</text>
-    <text text-anchor="middle" y="42" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Terraform</text>
+    <text text-anchor="middle" dy="6" font-size="24">🏗️</text>
+    <text text-anchor="middle" y="42" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Terraform</text>
   </g>
 
   <!-- AWS -->
   <g transform="translate(500,310)">
-    <circle r="24" fill="#161b22" stroke="#FF9900" stroke-width="2.5">
+    <circle r="27.6" fill="#161b22" stroke="#FF9900" stroke-width="2.5">
       <animate attributeName="stroke-width" values="2.5;3.5;2.5" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="6" font-size="18">☁️</text>
-    <text text-anchor="middle" y="42" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">AWS (EC2/VPC)</text>
+    <text text-anchor="middle" dy="6" font-size="24">☁️</text>
+    <text text-anchor="middle" y="42" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">AWS (EC2/VPC)</text>
   </g>
 
   <!-- Linux -->
   <g transform="translate(750,310)">
-    <circle r="24" fill="#161b22" stroke="#FCC624" stroke-width="2.5">
+    <circle r="27.6" fill="#161b22" stroke="#FCC624" stroke-width="2.5">
       <animate attributeName="stroke-width" values="2.5;3.5;2.5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="6" font-size="18">🐧</text>
-    <text text-anchor="middle" y="42" font-size="12" font-family="Verdana" fill="#8fd3fe" font-weight="600">Linux OS</text>
+    <text text-anchor="middle" dy="6" font-size="24">🐧</text>
+    <text text-anchor="middle" y="42" font-size="16" font-family="Verdana" fill="#8fd3fe" font-weight="600">Linux OS</text>
   </g>
 
   <!-- flowing infra pulse -->
-  <circle r="5" fill="#844FBA" filter="url(#pglow)">
+  <circle r="5.0" fill="#844FBA" filter="url(#pglow)">
     <animateMotion dur="3s" repeatCount="indefinite" path="M 250 300 L 490 138"/>
   </circle>
-  <circle r="5" fill="#F46800" filter="url(#pglow)">
+  <circle r="5.0" fill="#F46800" filter="url(#pglow)">
     <animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M 500 300 L 630 138"/>
   </circle>
-  <circle r="5" fill="#FCC624" filter="url(#pglow)">
+  <circle r="5.0" fill="#FCC624" filter="url(#pglow)">
     <animateMotion dur="3s" begin="2s" repeatCount="indefinite" path="M 750 300 L 770 138"/>
   </circle>
 
-  <text x="500" y="410" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#00F7FF" opacity="0.9">
+  <text x="500" y="410" text-anchor="middle" font-family="Fira Code, monospace" font-size="18" fill="#00F7FF" opacity="0.9">
     git push → build → provision infra → sync → deploy → observe 🚀
   </text>
 </svg>
