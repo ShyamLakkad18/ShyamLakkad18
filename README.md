@@ -113,7 +113,6 @@
 
 </div>
 
-> ⚙️ **Setup:** ye bhi `animated-icons` folder me hi jayega — attached `pipeline-banner.svg` upload kar do, moving pulse dots live chalna shuru ho jayenge (Code → Build → Test → Deploy → Release → Monitor).
 
 ---
 
@@ -125,8 +124,6 @@
 
 </div>
 
-> ⚙️ **Setup:** `k8s-cluster-banner.svg` bhi usi `animated-icons` folder me daal do. Control Plane se scheduling pulse dots teeno Worker Nodes ki taraf live travel karenge, aur har Pod ka border pulse karta rahega (jaise container health-check chal raha ho).
-
 ---
 
 ## 🏭 Full Production Deployment Flow (Animated)
@@ -137,7 +134,6 @@
 
 </div>
 
-> ⚙️ **Setup:** `production-flow-banner.svg` bhi `animated-icons` folder me upload kar do. Ye pura end-to-end flow dikhata hai — **Developer → GitHub → Jenkins/CI → Docker Build → ArgoCD → Kubernetes → Monitoring**, aur neeche **Infrastructure Layer** (Terraform → AWS → Linux) jo upar wale flow ko power deta hai. Glowing dots dono directions me live travel karte hain, dikhane ke liye ki sab tools kaise ek saath kaam karte hain.
 
 ---
 
@@ -180,23 +176,14 @@
 
 ---
 
-## ⚡ Profile Summary Cards
+## ⚡ DevOps Skills & Stats (Animated)
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamLakkad18&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamLakkad18&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamLakkad18&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamLakkad18&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamLakkad18&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/skills-stats-banner.svg" width="900"/>
 
 </div>
+
 
 ---
 
