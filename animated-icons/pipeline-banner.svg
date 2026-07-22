@@ -15,7 +15,7 @@
 
   <rect width="900" height="260" rx="16" fill="url(#pipebg)"/>
 
-  <text x="450" y="36" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="bold" fill="#00F7FF">🚀 My DevOps Pipeline</text>
+  <text x="450" y="36" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="27" font-weight="bold" fill="#00F7FF">🚀 My DevOps Pipeline</text>
 
   <!-- connecting line -->
   <path id="pipeline-path" d="M 90 150 L 240 150 L 390 150 L 540 150 L 690 150 L 810 150"
@@ -24,72 +24,72 @@
         fill="none" stroke="#00F7FF" stroke-width="2" stroke-dasharray="4 6" opacity="0.5"/>
 
   <!-- moving pulse dots -->
-  <circle r="7" fill="#00F7FF" filter="url(#glow)">
+  <circle r="7.0" fill="#00F7FF" filter="url(#glow)">
     <animateMotion dur="4s" repeatCount="indefinite" path="M 90 150 L 240 150 L 390 150 L 540 150 L 690 150 L 810 150"/>
   </circle>
-  <circle r="7" fill="#F46800" filter="url(#glow)" opacity="0.85">
+  <circle r="7.0" fill="#F46800" filter="url(#glow)" opacity="0.85">
     <animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M 90 150 L 240 150 L 390 150 L 540 150 L 690 150 L 810 150"/>
   </circle>
-  <circle r="7" fill="#EF7B4D" filter="url(#glow)" opacity="0.7">
+  <circle r="7.0" fill="#EF7B4D" filter="url(#glow)" opacity="0.7">
     <animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M 90 150 L 240 150 L 390 150 L 540 150 L 690 150 L 810 150"/>
   </circle>
 
   <!-- stage nodes -->
   <!-- 1: Code -->
   <g transform="translate(90,150)">
-    <circle r="26" fill="#161b22" stroke="#00F7FF" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#00F7FF" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">💻</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Code</text>
+    <text text-anchor="middle" dy="7" font-size="27">💻</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Code</text>
   </g>
 
   <!-- 2: Build -->
   <g transform="translate(240,150)">
-    <circle r="26" fill="#161b22" stroke="#844FBA" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#844FBA" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">🏗️</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Build</text>
+    <text text-anchor="middle" dy="7" font-size="27">🏗️</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Build</text>
   </g>
 
   <!-- 3: Test -->
   <g transform="translate(390,150)">
-    <circle r="26" fill="#161b22" stroke="#D24939" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#D24939" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">🧪</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Test</text>
+    <text text-anchor="middle" dy="7" font-size="27">🧪</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Test</text>
   </g>
 
   <!-- 4: Deploy -->
   <g transform="translate(540,150)">
-    <circle r="26" fill="#161b22" stroke="#2496ED" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#2496ED" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">🐳</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Deploy</text>
+    <text text-anchor="middle" dy="7" font-size="27">🐳</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Deploy</text>
   </g>
 
   <!-- 5: Release -->
   <g transform="translate(690,150)">
-    <circle r="26" fill="#161b22" stroke="#EF7B4D" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#EF7B4D" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">☸️</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Release</text>
+    <text text-anchor="middle" dy="7" font-size="27">☸️</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Release</text>
   </g>
 
   <!-- 6: Monitor -->
   <g transform="translate(810,150)">
-    <circle r="26" fill="#161b22" stroke="#F46800" stroke-width="2.5">
+    <circle r="29.9" fill="#161b22" stroke="#F46800" stroke-width="2.5">
       <animate attributeName="r" values="26;29;26" dur="1.6s" begin="1s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="7" font-size="20">📊</text>
-    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#8fd3fe" font-weight="600">Monitor</text>
+    <text text-anchor="middle" dy="7" font-size="27">📊</text>
+    <text text-anchor="middle" y="46" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8fd3fe" font-weight="600">Monitor</text>
   </g>
 
-  <text x="450" y="225" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#00F7FF" opacity="0.9">
+  <text x="450" y="225" text-anchor="middle" font-family="Fira Code, monospace" font-size="19" fill="#00F7FF" opacity="0.9">
     Continuous Integration → Continuous Delivery → Continuous Feedback
   </text>
 </svg>
