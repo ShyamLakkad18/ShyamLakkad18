@@ -19,49 +19,49 @@
     <text x="60" y="90" font-size="15" fill="#ffffff" font-weight="600">☁️ AWS</text>
     <rect x="60" y="98" width="380" height="14" rx="7" fill="#161b22" stroke="#FF9900" stroke-width="1"/>
     <rect x="60" y="98" height="14" rx="7" fill="#FF9900">
-      <animate attributeName="width" from="0" to="342" dur="1.6s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="304" dur="1.6s" fill="freeze"/>
     </rect>
-    <text x="450" y="109" font-size="13" fill="#FF9900" font-weight="bold">90%</text>
+    <text x="450" y="109" font-size="13" fill="#FF9900" font-weight="bold">80%</text>
 
     <!-- Docker/Kubernetes -->
     <text x="60" y="140" font-size="15" fill="#ffffff" font-weight="600">🐳 Docker &amp; Kubernetes</text>
     <rect x="60" y="148" width="380" height="14" rx="7" fill="#161b22" stroke="#326CE5" stroke-width="1"/>
     <rect x="60" y="148" height="14" rx="7" fill="#326CE5">
-      <animate attributeName="width" from="0" to="330" dur="1.6s" begin="0.15s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="285" dur="1.6s" begin="0.15s" fill="freeze"/>
     </rect>
-    <text x="450" y="159" font-size="13" fill="#326CE5" font-weight="bold">87%</text>
+    <text x="450" y="159" font-size="13" fill="#326CE5" font-weight="bold">75%</text>
 
     <!-- Terraform -->
     <text x="60" y="190" font-size="15" fill="#ffffff" font-weight="600">🏗️ Terraform (IaC)</text>
     <rect x="60" y="198" width="380" height="14" rx="7" fill="#161b22" stroke="#844FBA" stroke-width="1"/>
     <rect x="60" y="198" height="14" rx="7" fill="#844FBA">
-      <animate attributeName="width" from="0" to="304" dur="1.6s" begin="0.3s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="266" dur="1.6s" begin="0.3s" fill="freeze"/>
     </rect>
-    <text x="450" y="209" font-size="13" fill="#844FBA" font-weight="bold">80%</text>
+    <text x="450" y="209" font-size="13" fill="#844FBA" font-weight="bold">70%</text>
 
     <!-- CI/CD -->
     <text x="60" y="240" font-size="15" fill="#ffffff" font-weight="600">⚙️ CI/CD Pipelines</text>
     <rect x="60" y="248" width="380" height="14" rx="7" fill="#161b22" stroke="#D24939" stroke-width="1"/>
     <rect x="60" y="248" height="14" rx="7" fill="#D24939">
-      <animate attributeName="width" from="0" to="334" dur="1.6s" begin="0.45s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="285" dur="1.6s" begin="0.45s" fill="freeze"/>
     </rect>
-    <text x="450" y="259" font-size="13" fill="#D24939" font-weight="bold">88%</text>
+    <text x="450" y="259" font-size="13" fill="#D24939" font-weight="bold">75%</text>
 
     <!-- Monitoring -->
     <text x="60" y="290" font-size="15" fill="#ffffff" font-weight="600">📊 Monitoring &amp; Observability</text>
     <rect x="60" y="298" width="380" height="14" rx="7" fill="#161b22" stroke="#F46800" stroke-width="1"/>
     <rect x="60" y="298" height="14" rx="7" fill="#F46800">
-      <animate attributeName="width" from="0" to="292" dur="1.6s" begin="0.6s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="247" dur="1.6s" begin="0.6s" fill="freeze"/>
     </rect>
-    <text x="450" y="309" font-size="13" fill="#F46800" font-weight="bold">77%</text>
+    <text x="450" y="309" font-size="13" fill="#F46800" font-weight="bold">65%</text>
 
     <!-- Linux -->
     <text x="60" y="340" font-size="15" fill="#ffffff" font-weight="600">🐧 Linux Administration</text>
     <rect x="60" y="348" width="380" height="14" rx="7" fill="#161b22" stroke="#FCC624" stroke-width="1"/>
     <rect x="60" y="348" height="14" rx="7" fill="#FCC624">
-      <animate attributeName="width" from="0" to="323" dur="1.6s" begin="0.75s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="304" dur="1.6s" begin="0.75s" fill="freeze"/>
     </rect>
-    <text x="450" y="359" font-size="13" fill="#FCC624" font-weight="bold">85%</text>
+    <text x="450" y="359" font-size="13" fill="#FCC624" font-weight="bold">80%</text>
   </g>
 
   <!-- ===== Right: animated stat rings ===== -->
@@ -73,8 +73,8 @@
               stroke-dasharray="345" stroke-dashoffset="345" transform="rotate(-90)">
         <animate attributeName="stroke-dashoffset" from="345" to="55" dur="1.8s" fill="freeze"/>
       </circle>
-      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">3+</text>
-      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Years Experience</text>
+      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">10+</text>
+      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Hands-on Projects</text>
     </g>
 
     <g transform="translate(770,140)">
@@ -83,18 +83,18 @@
               stroke-dasharray="345" stroke-dashoffset="345" transform="rotate(-90)">
         <animate attributeName="stroke-dashoffset" from="345" to="35" dur="1.8s" begin="0.2s" fill="freeze"/>
       </circle>
-      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">99.9%</text>
-      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Uptime Maintained</text>
+      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">8+</text>
+      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">DevOps Tools Learned</text>
     </g>
 
     <g transform="translate(600,300)">
       <circle r="55" fill="none" stroke="#161b22" stroke-width="10"/>
       <circle r="55" fill="none" stroke="#844FBA" stroke-width="10" stroke-linecap="round"
               stroke-dasharray="345" stroke-dashoffset="345" transform="rotate(-90)">
-        <animate attributeName="stroke-dashoffset" from="345" to="90" dur="1.8s" begin="0.4s" fill="freeze"/>
+        <animate attributeName="stroke-dashoffset" from="345" to="20" dur="1.8s" begin="0.4s" fill="freeze"/>
       </circle>
-      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">50+</text>
-      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Deployments Automated</text>
+      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">100%</text>
+      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Passion to Automate</text>
     </g>
 
     <g transform="translate(770,300)">
@@ -103,8 +103,8 @@
               stroke-dasharray="345" stroke-dashoffset="345" transform="rotate(-90)">
         <animate attributeName="stroke-dashoffset" from="345" to="60" dur="1.8s" begin="0.6s" fill="freeze"/>
       </circle>
-      <text dy="6" font-size="22" font-weight="bold" fill="#ffffff">20+</text>
-      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Clusters Managed</text>
+      <text dy="6" font-size="20" font-weight="bold" fill="#ffffff">🎓 Fresher</text>
+      <text y="80" font-size="13" fill="#8fd3fe" font-weight="600">Ready to Contribute</text>
     </g>
   </g>
 
