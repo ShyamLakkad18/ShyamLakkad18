@@ -129,6 +129,18 @@
 
 ---
 
+## 🏭 Full Production Deployment Flow (Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShyamLakkad18/ShyamLakkad18/main/animated-icons/production-flow-banner.svg" width="1000"/>
+
+</div>
+
+> ⚙️ **Setup:** `production-flow-banner.svg` bhi `animated-icons` folder me upload kar do. Ye pura end-to-end flow dikhata hai — **Developer → GitHub → Jenkins/CI → Docker Build → ArgoCD → Kubernetes → Monitoring**, aur neeche **Infrastructure Layer** (Terraform → AWS → Linux) jo upar wale flow ko power deta hai. Glowing dots dono directions me live travel karte hain, dikhane ke liye ki sab tools kaise ek saath kaam karte hain.
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
