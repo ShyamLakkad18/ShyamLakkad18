@@ -229,3 +229,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
 
+<div align="center">
+
+<h3>⚡ "Automating Infrastructure, One Deployment at a Time." ⚡</h3>
+
+<h3>🚀 Build Once • Deploy Anywhere • Automate Everything 🚀</h3>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
+
+<br>
+
+<b>
+☁️ AWS ❤️ &nbsp; 🏗️ Terraform ❤️ &nbsp; 🐳 Docker ❤️ &nbsp; ☸️ Kubernetes ❤️ &nbsp; 🔴 Jenkins ❤️ &nbsp; 📊 Prometheus ❤️ &nbsp; 📈 Grafana
+</b>
+
+</div>
+
