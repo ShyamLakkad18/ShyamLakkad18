@@ -222,3 +222,9 @@
 
 </div>
  isme kuch kare ya ye thik hai
+
+ <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=800&color=7B42BC&center=true&vCenter=true&width=700&lines=Advanced+Kubernetes+%E2%98%B8%EF%B8%8F;AWS+Cloud+Architecture+%E2%98%81%EF%B8%8F;Terraform+Modules+%F0%9F%8F%97%EF%B8%8F;GitOps+with+ArgoCD+%F0%9F%94%84;Observability+with+Prometheus+%26+Grafana+%F0%9F%93%8A" />
+
+</div>
