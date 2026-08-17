@@ -222,12 +222,27 @@
 
 ---
 
+## 📫 Let's Connect
+
 <div align="center">
 
-### ⚡ "Automating Infrastructure, One Deployment at a Time." ⚡
-### 🚀 "Build Once • Deploy Anywhere • Automate Everything" 🚀
+<a href="https://www.linkedin.com/in/shyam-lakkad-355557338/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
+<a href="mailto:shyamlakkad7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShyamLakkad18/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=17&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Open+to+DevOps+%26+Cloud+Opportunities+%F0%9F%9A%80;Let's+Build+Something+Awesome+Together+%E2%9A%A1;Automate+Everything+%F0%9F%94%A5"/>
+
+</div>
 
 <div align="center">
 
